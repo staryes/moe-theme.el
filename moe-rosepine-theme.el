@@ -1,4 +1,4 @@
-;;; moe-rosepine-theme.el --- An eye-candy theme for Emacser
+;;; moe-rosepine-theme.el --- An eye-candy theme for Emacser  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2023 lilyuri
 
